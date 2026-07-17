@@ -1,5 +1,7 @@
 # Java Banking System
 
+STUDENT NAME: HORSU GODWIN
+INDEX NUMBER: 2425402758
 A simple, interactive console-based banking application built in Java. This project demonstrates foundational object-oriented programming principles, data input handling using Java's `Scanner`, and control flow structures like `do-while` loops and `switch` cases.
 
 ## Features
